@@ -1,4 +1,4 @@
-# artyz7-20_LBP_HLS-Vivado-Vitis_
+# artyz7-20_LBP_HLS-Vivado-Vitis
 
 ### 🎯 Arty Z7-20 HDMI LBP Filter Project (Vitis HLS + Vivado + Vitis)
 
@@ -8,7 +8,7 @@
 
 * 본 프로젝트는 **Vitis HLS + Vivado + Vitis**를 이용하여 **LBP(Local Binary Pattern) 영상 처리 IP**를 FPGA에 구현하는 예제임
 * 노트북 화면을 입력받아 **LBP 알고리즘이 적용된 영상**을 실시간으로 모니터에 송출하는 것을 목표로 함
-* 환경은 **XC7Z020CLG400-1** FPGA 디바이스 기반이며, 보드는 **Arty Z7-20**을 사용함
+* 환경은 **xc7z020clg400-1** FPGA 디바이스 기반이며, 보드는 **Arty Z7-20**을 사용함
 
 ---
 
@@ -45,7 +45,7 @@
 ### 💻 Development Environment
 
 * Board: Digilent Arty Z7-20
-* FPGA Device: XC7Z020CLG400-1
+* FPGA Device: xc7z020clg400-
 * Toolchain: Vitis HLS, Vivado, Vitis
 * Reference Files: Digilent HDMI In/Out 예제 (HW & SW)
 
@@ -65,11 +65,17 @@
 
 * LBP 필터가 적용된 영상이 실시간으로 모니터에 출력됨
 
-* <img width="1402" height="763" alt="image" src="https://github.com/user-attachments/assets/0096c53a-215f-4f5d-806a-c9f269b67289" />  
+* ![lpb_diagram](https://github.com/user-attachments/assets/8f62502f-e9fa-4e81-b291-f046f1623092)
 
-* <img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/8392cee2-bbde-4c68-8e30-cdb408a01bf9" />  
 
-* [https://github.com/user-attachments/assets/e5661d00-41c6-4707-af24-b670d572686c](https://github.com/user-attachments/assets/e5661d00-41c6-4707-af24-b670d572686c)
+* ![KakaoTalk_20250920_135301696](https://github.com/user-attachments/assets/0c7d5cd8-d716-41a8-9f1e-3a7105bb90c0)
+
+
+* 
+
+https://github.com/user-attachments/assets/e9cb9fb2-21f4-47cc-8c72-a47abead4440
+
+
 
 ---
 
