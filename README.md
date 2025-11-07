@@ -1,4 +1,4 @@
-# artyz7-20_LBP_HLS-Vivado-Vitis
+# LBP ip integration project
 
 ### 🎯 Arty Z7-20 HDMI LBP Filter Project (Vitis HLS + Vivado + Vitis)
 
